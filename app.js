@@ -1,7 +1,7 @@
 const UserLinks = {
   github: "pedroluca",
   instagram: "pe.uuh",
-  youtube: "UC7qDaMEUS4MjhQ7UVxQQVMQ",
+  youtube: "channel/UC7qDaMEUS4MjhQ7UVxQQVMQ",
   twitter: "pedrolucaofc"
 }
 
